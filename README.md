@@ -4,11 +4,11 @@
 
 This dataset includes processed (radially averaged and mask-corrected) SAXS data from a sample of hen egg white lysozyme. The concentrations used were:
 
-- 8 mg/ml (02700_F2-T1_lys_8*.dat)
-- 4 mg/ml (02702_F2-T1_lys_8*.dat)
-- 2 mg/ml (02704_F2-T1_lys_8*.dat)
-- 1 mg/ml (02706_F2-T1_lys_8*.dat)
-- buffer (02698_F1-T1_buff_lys*.dat)
+- 8 mg/ml (`02700_F2-T1_lys_8*.dat`)
+- 4 mg/ml (`02702_F2-T1_lys_8*.dat`)
+- 2 mg/ml (`02704_F2-T1_lys_8*.dat`)
+- 1 mg/ml (`02706_F2-T1_lys_8*.dat`)
+- buffer (`02698_F1-T1_buff_lys*.dat`)
 
 Data can be found in the `processed` folder.
 
