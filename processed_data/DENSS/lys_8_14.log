@@ -1,0 +1,52 @@
+2020-03-31 16:32:30,197 - BEGIN
+2020-03-31 16:32:30,197 - Script name: /home/sbio/norm/softwares/denss/venv3/bin/denss.all.py
+2020-03-31 16:32:30,197 - DENSS Version: 1.5.0
+2020-03-31 16:32:30,197 - Data filename: lys_8.out
+2020-03-31 16:32:30,197 - Output prefix: lys_8/lys_8_14
+2020-03-31 16:32:30,197 - Mode: SLOW
+2020-03-31 16:32:30,197 - q range of input data: 0.000 < q < 0.579
+2020-03-31 16:32:30,197 - Maximum dimension: 44.000
+2020-03-31 16:32:30,197 - Sampling ratio: 3.000
+2020-03-31 16:32:30,197 - Requested real space voxel size: 6.600
+2020-03-31 16:32:30,198 - Number of electrons: 10000.000
+2020-03-31 16:32:30,198 - Limit Dmax: False
+2020-03-31 16:32:30,198 - Limit Dmax Steps: [502]
+2020-03-31 16:32:30,198 - Recenter: True
+2020-03-31 16:32:30,198 - Recenter Steps: [501, 1001, 1501, 2001, 2501, 3001, 3501, 4001, 4501, 5001, 5501, 6001, 6501, 7001, 7501, 8001]
+2020-03-31 16:32:30,198 - Recenter Mode: com
+2020-03-31 16:32:30,198 - NCS: 0
+2020-03-31 16:32:30,198 - NCS Steps: [3000, 5000, 7000, 9000]
+2020-03-31 16:32:30,198 - NCS Axis: 1
+2020-03-31 16:32:30,198 - Positivity: True
+2020-03-31 16:32:30,198 - Minimum Density: None
+2020-03-31 16:32:30,198 - Maximum Density: None
+2020-03-31 16:32:30,198 - Extrapolate high q: True
+2020-03-31 16:32:30,198 - Shrinkwrap: True
+2020-03-31 16:32:30,198 - Shrinkwrap sigma start: 3
+2020-03-31 16:32:30,198 - Shrinkwrap sigma end: 1.5
+2020-03-31 16:32:30,198 - Shrinkwrap sigma decay: 0.99
+2020-03-31 16:32:30,198 - Shrinkwrap threshold fraction: 0.2
+2020-03-31 16:32:30,198 - Shrinkwrap iterations: 20
+2020-03-31 16:32:30,198 - Shrinkwrap starting step: 5000
+2020-03-31 16:32:30,198 - Enforce connectivity: True
+2020-03-31 16:32:30,198 - Enforce connectivity steps: [6000]
+2020-03-31 16:32:30,198 - Chi2 end fraction: 1.000e-03
+2020-03-31 16:32:30,199 - Maximum number of steps: 15000
+2020-03-31 16:32:30,199 - Grid size (voxels): 20 x 20 x 20
+2020-03-31 16:32:30,199 - Real space box width (angstroms): 132.000
+2020-03-31 16:32:30,199 - Real space box range (angstroms): -66.000 < x < 66.000
+2020-03-31 16:32:30,199 - Real space box volume (angstroms^3): 2299968.000
+2020-03-31 16:32:30,199 - Real space voxel size (angstroms): 6.600
+2020-03-31 16:32:30,199 - Real space voxel volume (angstroms^3): 287.496
+2020-03-31 16:32:30,199 - Reciprocal space box width (angstroms^(-1)): 0.904
+2020-03-31 16:32:30,199 - Reciprocal space box range (angstroms^(-1)): -0.476 < qx < 0.428
+2020-03-31 16:32:30,199 - Maximum q vector (diagonal) (angstroms^(-1)): 0.824
+2020-03-31 16:32:30,199 - Number of q shells: 17
+2020-03-31 16:32:30,199 - Width of q shells (angstroms^(-1)): 0.048
+2020-03-31 16:32:30,199 - Random seed: 614544263
+2020-03-31 16:33:02,947 - FINISHED DENSITY REFINEMENT
+2020-03-31 16:33:02,947 - Number of steps: 14999
+2020-03-31 16:33:02,947 - Final Chi2: 2.512e-02
+2020-03-31 16:33:02,947 - Final Rg: 17.030
+2020-03-31 16:33:02,947 - Final Support Volume: 61811.640
+2020-03-31 16:33:02,947 - END

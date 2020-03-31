@@ -1,0 +1,50 @@
+# DAMMIF/N results summary
+# Input file: lys_8.out
+# Output prefix: lys_8
+# Output directory: /home/sbio/norm/temp/lys_8/dammif_n_only
+# Program used: DAMMIF
+# Mode: Slow
+# Symmetry: P1
+# Anisometry: Unknown
+# Total number of reconstructions: 20
+# Used DAMAVER: True
+# Refined with DAMMIN: True
+# Used DAMCLUST: False
+
+# AMBIMETER results
+
+# Normalized spatial discrepancy results
+# Mean NSD: 0.624
+# Stdev. NSD: 0.033
+# DAMAVER Included: 19 of 20
+# Representative model: 1
+# Excluded Models: 13
+
+# Reconstruction resolution (SASRES) results
+# Ensemble resolution: 20 +/- 2 Angstrom
+
+# Individual model results
+# Model,Chi^2,Rg,Dmax,Excluded_Vol,Est_Protein_MW,Mean_NSD
+1,1.540,14.693,48.9,20000.0,12.05,0.588
+2,1.539,14.695,48.3,20000.0,12.05,0.639
+3,1.541,14.69,48.9,19900.0,11.99,0.677
+4,1.537,14.691,48.4,19900.0,11.99,0.621
+5,1.538,14.694,48.8,20000.0,12.05,0.609
+6,1.539,14.694,49.2,19900.0,11.99,0.611
+7,1.540,14.69,48.5,19900.0,11.99,0.613
+8,1.538,14.693,48.4,19900.0,11.99,0.678
+9,1.539,14.693,47.7,20000.0,12.05,0.591
+10,1.539,14.692,49.5,20000.0,12.05,0.626
+11,1.540,14.694,48.9,19900.0,11.99,0.607
+12,1.538,14.693,49.1,19900.0,11.99,0.596
+13,1.538,14.691,48.4,19900.0,11.99,0.720
+14,1.537,14.692,48.1,20000.0,12.05,0.604
+15,1.540,14.692,48.4,19900.0,11.99,0.628
+16,1.539,14.694,48.5,20000.0,12.05,0.612
+17,1.538,14.693,48.4,19900.0,11.99,0.617
+18,1.539,14.694,49.4,20000.0,12.05,0.635
+19,1.535,14.692,48.5,20000.0,12.05,0.597
+20,1.541,14.695,49.2,20000.0,12.05,0.617
+damaver,,,,19952.632,12.02,
+damfilt,,,,19983.077,12.04,
+refine,1.446,14.69,45.2,18531.0,11.16,

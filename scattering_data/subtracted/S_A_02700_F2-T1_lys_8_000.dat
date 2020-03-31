@@ -440,6 +440,16 @@
 #    "MW": "", 
 #    "Notes": "", 
 #    "analysis": {
+#        "GNOM": {
+#            "Dmax": "44", 
+#            "Real_Space_I0": 0.01193, 
+#            "Real_Space_I0_Err": 1.979e-05, 
+#            "Real_Space_Rg": 14.67, 
+#            "Real_Space_Rg_Err": 0.02836, 
+#            "Total_Estimate": 0.7596, 
+#            "qEnd": 0.580660603, 
+#            "qStart": 0.0106922151
+#        }, 
 #        "guinier": {
 #            "I0": "0.0117971852648", 
 #            "I0_autorg_err": "4.325E-06", 
@@ -474,7 +484,7 @@
 #            "VolumeOfCorrelation": {
 #                "MW": "8.85936857037", 
 #                "Type": "Protein", 
-#                "Vcor": "125.127077791"
+#                "Vcor": "126.057452337"
 #            }
 #        }
 #    }, 

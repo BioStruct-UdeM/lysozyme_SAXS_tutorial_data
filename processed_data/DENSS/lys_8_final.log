@@ -1,0 +1,12 @@
+2020-03-31 16:31:33,599 - BEGIN
+2020-03-31 16:31:33,599 - Command: /home/sbio/norm/softwares/denss/venv3/bin/denss.all.py -f lys_8.out -j 7 -n 20
+2020-03-31 16:31:33,600 - DENSS Version: 1.5.0
+2020-03-31 16:31:33,600 - Data filename: lys_8.out
+2020-03-31 16:31:33,600 - Enantiomer selection: True
+2020-03-31 16:34:16,362 - Mean of correlation scores: 0.989
+2020-03-31 16:34:16,362 - Standard deviation of the scores: 0.002
+2020-03-31 16:34:16,362 - Total number of input maps for alignment: 20
+2020-03-31 16:34:16,363 - Number of aligned maps accepted: 19
+2020-03-31 16:34:16,363 - Correlation score between average and reference: 0.998
+2020-03-31 16:34:16,391 - Resolution: 23.7 
+2020-03-31 16:34:16,391 - END

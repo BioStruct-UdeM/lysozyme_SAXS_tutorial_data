@@ -1,0 +1,16 @@
+compact                       ! shape
+1.00                          ! dummy atom radius
+20                            ! number of spherical harmonics
+1.00                          ! proportion of the curve to be fitted
+10                            ! number of supporting points/knots
+emphasised porod              ! weighting function
+3004080663239274169           ! initial random seed
+400                           ! maximum number of steps
+100000                        ! maximum number of iterations
+10000                         ! maximum number of successes
+50                            ! minimum number of successes
+0.950                         ! temperature scheduling factor
+0.100E-02                     ! Rg penalty weight
+0.100E-04                     ! center penalty weight
+0.100E-01                     ! looseness penalty weight
+0.00                          ! anisometry penalty weight

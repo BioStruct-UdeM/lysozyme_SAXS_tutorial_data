@@ -1,0 +1,10 @@
+2020-03-31 04:50:29 PM BEGIN
+2020-03-31 04:50:29 PM Command: /home/sbio/norm/softwares/denss/venv3/bin/denss.align.py -f lys_8_avg_refine.mrc -ref 1lys_chainA.pdb
+2020-03-31 04:50:29 PM DENSS Version: 1.5.0
+2020-03-31 04:50:29 PM Map filename(s): ['lys_8_avg_refine.mrc']
+2020-03-31 04:50:29 PM Reference filename: 1lys_chainA.pdb
+2020-03-31 04:50:29 PM Enantiomer selection: True
+2020-03-31 04:50:29 PM Center PDB reference: True
+2020-03-31 04:50:29 PM PDB reference map resolution: 15.00
+2020-03-31 04:50:35 PM Correlation score to reference: lys_8_avg_refine_aligned.mrc 0.921
+2020-03-31 04:50:35 PM END
