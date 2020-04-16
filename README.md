@@ -1,5 +1,6 @@
 # SAXS dataset for data analysis tutorial
 
+
 ## Composition of the dataset
 
 This dataset includes processed (radially averaged and mask-corrected) SAXS data from a sample of hen egg white lysozyme. The concentrations used were:
@@ -10,7 +11,38 @@ This dataset includes processed (radially averaged and mask-corrected) SAXS data
 - 1 mg/ml (`02706_F2-T1_lys_8*.dat`)
 - buffer (`02698_F1-T1_buff_lys*.dat`)
 
-Data can be found in the `processed` folder.
+Data can be found in the `scattering_data/processed` folder.
+
+The rest of the data (averaged, subtracted, output of various analysis softwares) is saved in the described structure below.
+
+```raw
+├── README.md           <- The top-level README for developers using this project.
+│
+├── processed_data
+|   ├── CRYSOL          <- Output of CRYSOL.
+│   ├── DAMMIF          <- Output of DAMMIF.
+|   ├── DENSS           <- Output of DENSS.
+|   ├── GASBOR          <- Output of GASBOR
+|   ├── GNOM            <- Output of GNOM.
+|   └── SUPCOMB         <- Output of SUPCOMB.
+|
+├── references          <- Data dictionaries, manuals, and all other explanatory materials.
+|   └── pdb_models      <- High resolution structural models.
+|   └── sasbdb_models   <- SAXS data from the SASBDB
+|
+├── reports             <- Generated analysis files.
+|   └── figures         <- Generated graphics and figures to be used in reporting.
+│
+├── scattering_data
+|   ├── averaged        <- Averaged data.
+|   ├── processed       <- Integrated SAXS data acquired.
+|   ├── subtracted      <- The final, buffer-subtracted averaged scattering data for modeling.
+|   └── uv              <- UV data acquired.
+|
+├── scripts             <- Various scripts to run programs and generate figures.
+|
+└── workspaces          <- RAW workspaces.
+```
 
 
 ## Experimental conditions
@@ -39,4 +71,6 @@ NGMNAWVAWRNRCKGTDVQAWIRGCRL
 
 See UNIPROT entry [P00698](https://www.uniprot.org/uniprot/P00698) for more details.
 
-The sample used for the SAXS experiments comprises amino acids 19 to 147 of the protein. Many X-ray crystal structures exist in the PDB. A good example is entry [1BWH](https://www.rcsb.org/structure/1BWH).
+The sample used for the SAXS experiments comprises amino acids 19 to 147 of the protein. Many X-ray crystal structures exist in the PDB. A good example is entry [1LYS](https://www.rcsb.org/structure/1LYS). The PDB file can be found in `references/pdb_models`.
+
+Another example dataset for lysozyme is present in `references /sasbdb_models`. It corresponds to the SASDA96 entry of the [SASBDB](https://www.sasbdb.org).
