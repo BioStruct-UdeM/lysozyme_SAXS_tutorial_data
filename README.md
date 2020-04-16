@@ -1,5 +1,7 @@
 # SAXS dataset for data analysis tutorial
 
+Tutorial [here](http://airen.bcm.umontreal.ca/biostruct/SAXS_tutorials/).
+
 
 ## Composition of the dataset
 
